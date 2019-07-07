@@ -13,7 +13,7 @@ int* func() {
 
 int main()
 {
-
+	//test for 7.7 23:59
 	cout << "Average value is: " << func()[0]<< endl;
 
 	system("pause");
